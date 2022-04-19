@@ -1,7 +1,5 @@
 import { action } from '@storybook/addon-actions'
-import CommandButton from '../../components/commandbutton.vue'
-
-import 'semantic-ui-css/semantic.min.css'
+import CommandButton from '../../components/buttons/commandbutton.vue'
 
 export default {
   title: 'CommandButton',

@@ -11,6 +11,7 @@
   "dependencies": {
     "babel-preset-vue": "^2.0.2",
     "semantic-ui-css": "^2.4.1",
+    "token-transformer": "^0.0.20",
     "vue": "^2.6.12",
     "vuex": "^3.6.0"
   },
@@ -36,6 +37,7 @@
     "css-loader": "^6.2.0",
     "file-loader": "^6.2.0",
     "prop-types": "^15.7.2",
+    "style-dictionary": "^3.7.0",
     "url-loader": "^4.1.1",
     "vue-loader": "^15.9.6",
     "vue-style-loader": "^4.1.2",
